@@ -1,7 +1,6 @@
 # 💫 About Me:
 🎓 BTech Information technology Graduate(2026)<br>🎯 To build a successful career in the field of Information Technology by applying my technical knowledge,<br>problem-solving skills, and creativity to develop efficient and innovative solutions. I aim to continuously<br>learn new technologies and enhance my professional skills while working in a challenging environment.<br>📈 Currently looking for AI/ML internship and full time jobs.<br>💻 Skilled in Python, MySQl, Core Java, Basic ML concepts RAG pipeline, HTML, CSS, Java Script, Power BI, Git, Jira.<br>🌱 Always learning, exploring, and growing in the field I have interested which is AI/ML. 
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/yeluriharshavardhini95) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yeluriharshavardhini@gmail.com) 
 
